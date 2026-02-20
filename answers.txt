@@ -5,3 +5,11 @@ Answer: This allows us to work on code collaboratively while avoiding conflicts.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Machine Learning
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging merges two changes on two branches into one, while rebasing moves commit from one branch into another
+
+Q4: What are you looking forward to this semester?
+
+Answer: A internship
